@@ -1,0 +1,26 @@
+_repo: DominicaDe-Aarde-en-haar-Volken-1904_25296
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kol, H. van
+    gutenberg_agent_id: '31225'
+    url: http://www.gutenberg.org/2009/agents/31225
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25296'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dominica -- Description and travel'
+- !lcc 'F975'
+title: 'Dominica
+
+  De Aarde en haar Volken, 1904'
+url: http://www.gutenberg.org/ebooks/25296
